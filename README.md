@@ -1,4 +1,4 @@
-# Challenge-BI---Semana-01
+# PowerBI - Análise de dados
 
 Esse dashboard consiste em uma análise de dados da campanha de marketing realizada pela empresa Bloco de Código.
 
